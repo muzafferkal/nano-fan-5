@@ -1,0 +1,5 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"A1";"Arduino_Nano";1;"Arduino_Nano_v3.x";;;
+2;"J2,J1";"PinSocket_1x15_P2.54mm_Vertical";2;"Conn_01x15_Socket";;;
+3;"J3";"BarrelJack_CUI_PJ-079BH_Horizontal";1;"Barrel_Jack_Switch";;;
+4;"M1,M2";"Molex_KK-254_AE-6410-04A_1x04_P2.54mm_Vertical";2;"Fan_4pin";;;
